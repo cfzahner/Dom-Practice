@@ -33,6 +33,8 @@ h3 {
 
 p,
 li,
-a {
+a,
+figcaption
+{
   font size: 1.266em
 }
